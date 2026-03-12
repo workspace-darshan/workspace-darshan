@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey 👋 What's up? Chambu..!!🧪</h1>
+<h1 align="center">Hey 👋 What's up? Man..!!🧪</h1>
 
 ###
 
