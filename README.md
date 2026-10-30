@@ -17,9 +17,3 @@
 ###
 
 <p align="left">My name is Darshan Mevada —<br>the former 🔨 King of Asgard 🛡️⚡<br><br>Once a guardian of realms,<br>now forging full-stack applications in the Midgard of code.<br><br>I wield the MERN stack like Mjölnir —<br>React and Next.js shape the interface,<br>Node and Express command the logic,<br>MongoDB remembers every battle.<br><br>From the clouds of AWS ☁️ to the forges of Docker 🐳,<br>I deploy, defend, and scale systems built for production.<br>When bugs rise, I answer — even after midnight.<br><br>Designer by instinct 🎨, engineer by oath.<br>I don’t just ship features —<br>I protect stability, performance, and user experience.<br><br>The battle is ongoing.<br>The build is never finished.</p>
-
-###
-
-<h2 align="left">I bacttle with</h2>
-
-###
